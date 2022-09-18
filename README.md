@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 My name is Enrique @brusmax. I am a backend developer and I have learned these techs along the way:
-# 2020 - Now Freelancer:
+# 2020 - Now: [Freelancer](https://blog.brusmax.com/):
 <ul>
   <li>Solifity</li>
   <li>Hardhat</li>
@@ -14,7 +14,7 @@ My name is Enrique @brusmax. I am a backend developer and I have learned these t
   <li>Python</li>
 </ul>
 
-# 2014 - 2020 WebGenius (NZ):
+# 2014 - 2020: [WebGenius (NZ)](https://webgenius.co.nz/):
 <ul>
   <li>Ruby</li>
   <li>Backbone.js</li>
@@ -23,12 +23,12 @@ My name is Enrique @brusmax. I am a backend developer and I have learned these t
   <li>Node.js</li>
 </ul>
 
-# 2014  LastRoom (StartUp):
+# 2014:  [LastRoom (StartUp)](https://www.linkedin.com/company/lastroom/):
 <ul>
   <li>Node.js</li>
 </ul>
 
-# 2013 Veciniti:
+# 2013: [Veciniti](https://www.facebook.com/veciniti):
 <ul>
   <li>Node.js</li>
   <li>WebSockets</li>
@@ -37,7 +37,7 @@ My name is Enrique @brusmax. I am a backend developer and I have learned these t
   <li>Mobile application - Android - iOs (Apache cordova)</li>
 </ul>
 
-# 2012  Black Consulting:
+# 2012:  [Black Consulting](https://www.linkedin.com/company/black/):
 <ul>
   <li>Ruby on Rails</li>
   <li>MongoDB</li>
@@ -46,7 +46,7 @@ My name is Enrique @brusmax. I am a backend developer and I have learned these t
 </ul>
 
 
-# 2008 - 2013 masFusion:
+# 2008 - 2013: [masFusion](https://masfusion.com/):
 <ul>
   <li>Ruby on Rails</li>
   <li>PHP</li>
@@ -60,9 +60,18 @@ My name is Enrique @brusmax. I am a backend developer and I have learned these t
   <li>Scrum</li>
 </ul>
 
-# 2006 - 2008 CUCEA - UdeG:
+# 2006 - 2008: [CUCEA - UdeG](https://cucea.udg.mx/):
 <ul>
   <li>PHP</li>
   <li>HTML/CSS/JS/jQuery</li>
   <li>Joomla</li>
 </ul>
+
+## You can find more about me here:
+
+- [LinkedIn](https://www.linkedin.com/in/brusmax)
+- [Twitter](https://twitter.com/brusmax)
+- [Web](https://brusmax.com/)
+- [Blog](https://blog.brusmax.com/)
+
+
