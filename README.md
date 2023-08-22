@@ -4,7 +4,17 @@
 ### Hi there 👋
 
 My name is Enrique @brusmax. I am a backend developer and I have learned these techs along the way:
-# 2020 - Now: [Freelancer](https://blog.brusmax.com/):
+
+# 2023 - Now: [Envato - placeit](https://placeit.net/):
+<ul>
+  <li>Ruby on Rails</li>
+  <li>Node.js</li>
+  <li>Docker</li>
+  <li>AWS</li>
+  <li>Python</li>
+</ul>
+
+# 2020 - 2023: [Freelancer](https://blog.brusmax.com/):
 <ul>
   <li>Solifity</li>
   <li>Hardhat</li>
